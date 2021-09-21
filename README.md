@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CedricAsante
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analytics
+- 📫 How to reach me: asantecedric@gmail.com
